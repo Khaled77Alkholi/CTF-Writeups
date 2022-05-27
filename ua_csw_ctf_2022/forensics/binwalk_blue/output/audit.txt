@@ -1,0 +1,24 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri May 27 16:02:43 2022
+Invocation: foremost Binwalk.png?token=eyJ1c2VyX2lkIjo3NTAsInRlYW1faWQiOm51bGwsImZpbGVfaWQiOjI2fQ.YpE7bw.5v8f3k-_pMfztaGkj-u_QNim-bY 
+Output directory: /home/kali/ctf_writeups/CTF-Writeups/ua_csw_ctf_2022/forensics/binwalk_blue/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: Binwalk.png?token=eyJ1c2VyX2lkIjo3NTAsInRlYW1faWQiOm51bGwsImZpbGVfaWQiOjI2fQ.YpE7bw.5v8f3k-_pMfztaGkj-u_QNim-bY
+Start: Fri May 27 16:02:43 2022
+Length: 2 MB (2136543 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	       2 MB 	          0 	  (1336 x 886)
+1:	00004166.png 	       3 KB 	    2133180 	  (1640 x 664)
+Finish: Fri May 27 16:02:43 2022
+
+2 FILES EXTRACTED
+	
+png:= 2
+------------------------------------------------------------------
+
+Foremost finished at Fri May 27 16:02:43 2022
